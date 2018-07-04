@@ -43,7 +43,7 @@
 2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />
 
 ### 只是显示图片
-![github](http://github.com/unicorn.png "github")
+![github](http://github.com/github.png)
 
 ### 想点击某个图片进入一个网页,比如我想点击github的icon然后再进入www.github.com
 [![github](http://github.com/github.png)](http://www.github.com/)
