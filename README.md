@@ -44,6 +44,9 @@
 
 ### 只是显示图片
 ![github](http://github.com/github.png)
+<center>
+![CSDN图标](http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg "这是CSDN的图标")
+</center>
 
 ### 想点击某个图片进入一个网页,比如我想点击github的icon然后再进入www.github.com
 [![github](http://github.com/github.png)](http://www.github.com/)
