@@ -46,8 +46,8 @@
 ![github](http://github.com/unicorn.png "github")
 
 ### 想点击某个图片进入一个网页,比如我想点击github的icon然后再进入www.github.com
-[![image]](http://www.github.com/)
-[image]: http://github.com/github.png "github"
+[![github](http://github.com/github.png)](http://www.github.com/)
+[[image]: http://github.com/github.png](http://www.github.com/ "github")
 
 ### 文字被些字符包围
 > 文字被些字符包围
